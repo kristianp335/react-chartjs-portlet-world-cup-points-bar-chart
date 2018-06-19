@@ -1,0 +1,5 @@
+Bundle-Name: react-teams-chart
+Bundle-SymbolicName: com.liferay.kris.football.teams
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.kris.football.teams.constants
+Web-ContextPath: /react-teams-chart
